@@ -7,6 +7,8 @@ import com.github.javafaker.Faker;
 
 public class DataGeneratorForAssingnment {
 	
+	// This is to Generate Fake Email.
+	
 
 	// Adding primary account//
 
